@@ -8,7 +8,7 @@ Time spent: **12** hours spent in total
 
 ## Summary
 
-**Marvel API** is an android app that **displays a random character from the Marvel API)**
+**Marvel API** is an android app that **displays a random character from the Marvel API**
 
 If I had to describe this project in three (3) emojis, they would be: **😢 😪 😄**
 
