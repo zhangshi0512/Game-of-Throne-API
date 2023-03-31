@@ -8,7 +8,7 @@ Time spent: **12** hours spent in total
 
 ## Summary
 
-**Marvel API** is an android app that **displays a random character from the Marvel API**
+**Game of Throne API** is an android app that **displays a random character from the Game of Throne API**
 
 If I had to describe this project in three (3) emojis, they would be: **😢 😪 😄**
 
@@ -34,13 +34,13 @@ The following EXTRA features are implemented:
 
 ## API Choice
 
-My chosen API for this project is **enter here**.
+My chosen API for this project is **Game of Throne**.
 
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://i.imgur.com/grEbCDQ.gif' title='Marvel API' width='' alt='Video Demo' />
+<img src='https://i.imgur.com/kqtNkaS.gif' title='Game of Throne API' width='' alt='Video Demo' />
 
 GIF created with **ScreenToGif**
 
