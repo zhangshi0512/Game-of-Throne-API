@@ -1,6 +1,8 @@
 <resources>
-    <string name="app_name">PersonalAPI</string>
-    <string name="random_button">Get a random character!</string>
-    <string name="image_description">image_description</string>
+    <string name="app_name">Game of Throne API</string>
+    <string name="random_button">Next Character</string>
+    <string name="image_description">Description</string>
     <string name="image_name">Cassie Lang</string>
+    <string name="search_button">Search for a character</string>
+    <string name="search_hint">Please enter a name</string>
 </resources>
